@@ -1,9 +1,6 @@
 ## Hello, I'm Hydrogen.P!
 
-```text
-I use TypeScript/JavaScript most often for development, followed by Kotlin/Java.
-Currently interested in bot plugin development for chatting software.
-```
+我要玩最新最热leakme谢谢fawo
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodePwn2021&show_icons=true&count_private=true&include_all_commits=true&show=reviews%2Cdiscussions_answered&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&theme=default_repocard)
 ![info](https://github-readme-stats.vercel.app/api/top-langs/?username=CodePwn2021&layout=compact)
